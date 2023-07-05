@@ -9,3 +9,12 @@ print("I finally got the file to go to GIT!")
 ## push 
 
 print("humble beginings")
+
+
+## giving it another go
+
+x <- 5
+y <- 2
+z <- x+y
+z
+
