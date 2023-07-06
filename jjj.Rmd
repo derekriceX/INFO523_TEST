@@ -32,3 +32,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 and what else is there to know?
 
 I think I know too much!
+
+try try again
+
