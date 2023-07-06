@@ -1,22 +1,17 @@
-print("another attempt")
+install.packages("rmarkdown")
+library(rmarkdown)
+---
+  title: "Hello R Markdown"
+author: "Awesome Me"
+date: "2018-02-14"
+output: html_document
+---
+  
+  ```{r}
+fit = lm(dist ~ speed, data = cars)
+b   = coef(fit)
+plot(cars)
+abline(fit)
+```
 
-print("I finally got the file to go to GIT!")
-
-
-## save local
-## state in Git console
-## commit
-## push 
-
-print("humble beginings")
-
-
-## giving it another go
-
-x <- 5
-y <- 2
-z <- x+y
-z
-
-
-print("final change for the day")
+The slope of the regression is `r b[1]`.
