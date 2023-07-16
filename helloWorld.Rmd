@@ -1,9 +1,16 @@
+### part I - create fork, edit fork, commit and push thoase changes 
 #### Sunday Morning Edit
 #### we will see how this goes 
 ## so far I've made an edit in R
 ## commit and push from R Studio
 ## forked the repository
 ## now I and editing in the repository 
+
+## part II - edit in master repo and push those changes to the fork
+## Sunday morning listening to some Star Wars tunes 
+## I plan to go to the gym later 
+## I plan to ride the bike later 
+
 
 ---
 title: "R Notebook"
