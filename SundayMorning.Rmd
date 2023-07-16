@@ -38,3 +38,12 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 # part V - edit R Studio and commit and push to base repo and fork
   
 ```
+
+
+### Part VI - make a change to R Studio and pushing to the base repo and the fork 
+### over and over and over again 
+### reproducible research 
+
+
+
+
