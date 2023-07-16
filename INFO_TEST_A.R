@@ -7,7 +7,7 @@ date: "2018-02-14"
 output: html_document
 ---
   
-  ```{r}
+```{r}
 fit = lm(dist ~ speed, data = cars)
 b   = coef(fit)
 plot(cars)

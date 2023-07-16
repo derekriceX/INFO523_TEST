@@ -24,4 +24,13 @@ plot(cars, pch = 18)
 print("hello world")
 ```
 
+```{r}
+x = 5  # radius of a circle
+x
+```
+```{r}
+## some edits to help with the Github exercise etc. 
+## but here 
 
+
+'''
