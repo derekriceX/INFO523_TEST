@@ -10,3 +10,5 @@ Part IX - update on the fork and commit and push to main repo and R studio - I'l
 Part X - update R studio and push to base repo and the fork
 
 Part XI - update fork and push to base repo and then R studio
+
+Part XII - update R studio and push to base repo and the fork 
