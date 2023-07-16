@@ -19,6 +19,9 @@
 ## part VII - make edit in fork and push to base repo and R studio 
 
 
+## part VIIIa - edit two files in R studio and push both changes to base repo and the fork
+
+
 ---
 title: "R Notebook"
 output: html_notebook
