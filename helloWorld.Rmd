@@ -1,3 +1,10 @@
+#### Sunday Morning Edit
+#### we will see how this goes 
+## so far I've made an edit in R
+## commit and push from R Studio
+## forked the repository
+## now I and editing in the repository 
+
 ---
 title: "R Notebook"
 output: html_notebook
