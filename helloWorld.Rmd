@@ -16,6 +16,7 @@
 
 ## part IV - make an edit in the base repo and push to the fork 
 
+## part VII - make edit in fork and push to base repo and R studio 
 
 
 ---
